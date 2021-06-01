@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Number1</string>
+<!--    アプリ名-->
+    <string name="app_name">しりとり</string>
 </resources>
